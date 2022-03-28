@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loic-An
 - 👀 I’m interested in different stuffs
-- 🌱 I’m currently learning Rust, C and Java
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : loic_an@protonmail.com or @ keybase.io/loic_
 
